@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Memebot]]></title>
         <description><![CDATA[Memebot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/memebot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 02:37:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 02:40:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/memebot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Internet bot]]></title>
+            <description><![CDATA[<article><h1>Internet bot</h1><p>An Internet bot, also known as web robot, WWW robot or simply bot, is a software application that runs automated tasks (scripts) over the Internet. Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.</p></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Internet_bot</link>
+            <guid isPermaLink="false">d7aa46f5-a951-4a37-ae3d-e1d366ac3edc</guid>
+            <pubDate>Sat, 23 Apr 2016 02:40:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meme]]></title>
             <description><![CDATA[<article><h1>Meme</h1><p>A meme ( ) is "an idea, behavior, or style that spreads from person to person within a culture". A meme acts as a unit for carrying cultural ideas, symbols, or practices that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90c01f751ed6e87e53c6b6f6c86ed3c9b8ddfcd6.jpg"></article>]]></description>
