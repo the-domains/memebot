@@ -1,9 +1,7 @@
-favicon: null
 name: Memebot
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.07021277
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: idiotez artificial
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.7388059
-  lightness: 1
   brandColors:
     - '#B64926'
     - '#468966'
     - '#FFF0A5'
     - '#404040'
     - '#FFB03B'
+  brandStrength: 0.7388059
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.07021277
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
