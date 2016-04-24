@@ -1,40 +1,40 @@
-layout_spectrum: 0
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Memebot
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
-cta:
-  bucket: null
-  version: null
-  domain: null
-color:
-  brandStrength: 0.2565627370495349
-  saturation: 0.7677959389984608
-  brandColors:
-    - '#B4B0F4'
-    - '#446DA0'
-    - '#23215F'
-    - '#FFFFFF'
-    - '#AD8368'
-  lightness: 0.04569076839834452
-  rhythmicContrast: 0.2977761721704155
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 typography_spectrum: 0.07021277
+color:
+  saturation: 0.7677959389984608
+  brandStrength: 0.2565627370495349
+  lightness: 0.04569076839834452
+  brandColors:
+    - '#B64926'
+    - '#468966'
+    - '#FFF0A5'
+    - '#404040'
+    - '#FFB03B'
+  rhythmicContrast: 0.2977761721704155
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
