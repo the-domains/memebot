@@ -3,9 +3,9 @@ favicon: null
 name: Memebot
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
   brandStrength: 0.2565627370495349
-  lightness: 0.04569076839834452
   saturation: 0.7677959389984608
-  rhythmicContrast: 0.2977761721704155
   brandColors:
     - '#B4B0F4'
     - '#446DA0'
     - '#23215F'
     - '#FFFFFF'
     - '#AD8368'
-typography_spectrum: 0.8935389523394406
+  lightness: 0.04569076839834452
+  rhythmicContrast: 0.2977761721704155
+typography_spectrum: 0.07021277
